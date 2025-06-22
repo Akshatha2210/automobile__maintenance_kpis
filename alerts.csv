@@ -1,0 +1,3 @@
+alert_id,vehicle_id,timestamp,alert_type,severity,resolved
+A001,V001,2024-05-02 08:16:00,Engine Overheat,High,No
+A002,V003,2024-05-04 09:30:00,Brake Wear,Medium,Yes

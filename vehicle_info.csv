@@ -1,0 +1,6 @@
+vehicle_id,model,year,engine_type,mileage_km
+V001,C-Class,2019,Petrol,52000
+V002,E-Class,2020,Diesel,34000
+V003,GLC,2021,Petrol,28000
+V004,S-Class,2018,Hybrid,67000
+V005,A-Class,2022,Petrol,15000

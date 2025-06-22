@@ -1,0 +1,3 @@
+breakdown_id,vehicle_id,breakdown_date,component_failed
+B001,V001,2024-05-03,Engine
+B002,V004,2024-05-20,Battery

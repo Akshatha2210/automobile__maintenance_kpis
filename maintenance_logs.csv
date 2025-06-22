@@ -1,0 +1,3 @@
+log_id,vehicle_id,service_date,service_type,cost,service_center
+M001,V001,2024-03-10,Oil Change,4500,Benz Hub - Pune
+M002,V003,2024-04-18,Brake Replacement,11000,Benz Auto Delhi
